@@ -1,0 +1,1 @@
+type "node app.js --help" to check out all the commands available
